@@ -11,8 +11,8 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_logo:                    "true"
-resume_name:                    "Niels Lensink"
-resume_title:                   "Software Engineer"
+resume_name:                    null
+resume_title:                   "Niels Lensink - Software Engineer"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "nielslensink@gmail.com"
@@ -22,18 +22,18 @@ resume_contact_telephone:       ""
 resume_contact_address:         ""
 
 resume_header_contact_info:     "nielslensink@gmail.com"
-display_header_contact_info:    "false"
+display_header_contact_info:    "true"
 
 resume_header_intro: |
-  <p>Software Engineer with a passion for backend applications, devops and machine learning. 
+  Software Engineer with a passion for backend applications, devops and machine learning. 
   With over 15 years of experience I've worked on many projects and enjoyed working on a variety of complex problems. 
-  I love building structured solutions while still being pragmatic.</p>
+  I love building structured solutions while still being pragmatic.
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
 # or remove the resume_looking_for_work option entirely
 # to leave blank
-resume_looking_for_work:        "yes"
+resume_looking_for_work:        "no"
 
 # Decide which sections to use
 # comment out to hide

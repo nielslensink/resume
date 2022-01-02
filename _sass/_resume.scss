@@ -24,15 +24,15 @@
     width: 95px;
     max-width: 100%;
     overflow: hidden;
+    float: right;
     @include border-radius(25px);
     margin: 0 auto;
     display: block;
   }
 
   .logo {
-    max-width: 200px;
+    max-width: 250px;
     overflow: hidden;
-    margin: 0 auto;
     display: block;
   }
 
@@ -56,7 +56,8 @@
 
   .title-bar {
     @include section_border;
-    margin-top: 2rem;
+    margin-top: 10rem;
+    clear: both;
     padding: .4rem 0;
     @include clearfix;
 
