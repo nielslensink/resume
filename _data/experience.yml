@@ -12,8 +12,20 @@
 #   summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
 
 
-# # Communications Coordinator
-# - company: Springfield Women & Children's Center
-#   position: Communications Coordinator
-#   duration:   Jun, 2008  &mdash; May, 2010
-#   summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+# Communications Coordinator
+- company: Gemeente Amsterdam - OIS
+  position: Senior Python Developer
+  duration: 2019 - 2021
+  summary: | 
+    I worked in a team that was responsible for developing and maintaining several projects. We used scrum to maintain the backlog of all these projects and kept track of progress. 
+
+    In many of these projects we were directly in contact with the clients, responsible for communicating our planning and managing expectations. This is quite interesting as Gem. Amsterdam has many departments doing exciting projects. 
+
+    Some projects were just API’s, some had a Grafana dashboard and others had a complete frontend on top of the backend. 
+
+    In order to maintain all of our projects, I have introduced a standardized way of working. By making extensive use of docker I could set up a local development environment that is very similar to production thus reducing the risk of errors and bugs. 
+
+    Several projects have very high data-rates. For these projects I have introduced and implemented a new Time Series database on top of PostgreSQL in order to increase performance and reduce the manual need for data partitioning. 
+    
+    For one project I moved into kubernetes. This project had the need for dynamic scheduling of containers, for this I have created a kubernetes operator. This operator is responsible for scheduling the containers as needed and destroying them when the task is completed. Since this project requires graphics cards to run models I’ve set up kubernetes with graphics cards and made the operator capable of using them. 
+
