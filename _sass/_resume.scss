@@ -21,18 +21,18 @@
 .page-header { padding: 1.5rem 0;
 
   .avatar {
-    width: 110px;
+    width: 100px;
     max-width: 100%;
     overflow: hidden;
-    float: right;
     @include border-radius(10px);
     margin: 0 auto;
     display: block;
   }
 
   .logo {
-    width: 500px;
+    width: 550px;
     max-width: 100%;
+    margin: 0 auto;
     overflow: hidden;
     display: block;
   }
