@@ -1,0 +1,8 @@
+lists:
+  main:
+    - Python
+  second:
+    - Kafka
+  third:
+    - Jupyter
+
