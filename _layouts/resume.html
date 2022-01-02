@@ -12,9 +12,9 @@
       <header class="page-header">
 
         <!-- You can turn off the avatar in _config.yml by setting to false -->
-        {% if site.resume_avatar == 'true' %}
+        <!-- {% if site.resume_avatar == 'true' %}
         <img src="images/face.png" alt="my photo" class="avatar" itemprop="image">
-        {% endif %}
+        {% endif %} -->
 
         {% if site.resume_logo == 'true' %}
         <img src="images/logo-text.png" alt="my photo" class="logo" itemprop="image">
@@ -44,7 +44,12 @@
         </div>
 
         <div class="executive-summary" itemprop="description">
-          <p>{{ site.resume_header_intro | newline_to_br }}</p>
+          <p>
+            {% if site.resume_avatar == 'true' %}
+            <img src="images/face.png" alt="my photo" class="avatar" itemprop="image" style="float: left;margin: 1rem 1rem 0;">
+            {% endif %}
+            {{ site.resume_header_intro | newline_to_br }}
+          </p>
         </div>
 
         {% if site.resume_looking_for_work == 'yes' %}
