@@ -1,31 +1,19 @@
-# Jobs
-# VP of Global Communications
-# - company: Springfield International Human Rights Outreach
-#   position: VP of Global Communications
-#   duration: Oct, 2013 &mdash; Present
-#   summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
-
-# # Director of Digital Stratgy
-# - company: United Nations Human Rights Council
-#   position: Director of Digital Strategy
-#   duration:  Jun, 2010 &mdash; Sept, 2013
-#   summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
-
-
-# Communications Coordinator
 - company: Gemeente Amsterdam - OIS
   position: Senior Python Developer
-  duration: 2019 - 2021
-  summary: | 
-    I worked in a team that was responsible for developing and maintaining several projects. We used scrum to maintain the backlog of all these projects and kept track of progress. 
+  duration: 2019 - 2022
 
-    In many of these projects we were directly in contact with the clients, responsible for communicating our planning and managing expectations. This is quite interesting as Gem. Amsterdam has many departments doing exciting projects. 
+- company: We Riot BV
+  position: Co Founter &amp; Lead Developer
+  duration: 2017 - 2021
 
-    Some projects were just API’s, some had a Grafana dashboard and others had a complete frontend on top of the backend. 
+- company: Elements Interactive
+  position: Tech Lead Web 
+  duration: 2007 - 2021
 
-    In order to maintain all of our projects, I have introduced a standardized way of working. By making extensive use of docker I could set up a local development environment that is very similar to production thus reducing the risk of errors and bugs. 
+- company: KPN
+  position: Tech Lead 
+  duration: 2013 - 2017
 
-    Several projects have very high data-rates. For these projects I have introduced and implemented a new Time Series database on top of PostgreSQL in order to increase performance and reduce the manual need for data partitioning. 
-    
-    For one project I moved into kubernetes. This project had the need for dynamic scheduling of containers, for this I have created a kubernetes operator. This operator is responsible for scheduling the containers as needed and destroying them when the task is completed. Since this project requires graphics cards to run models I’ve set up kubernetes with graphics cards and made the operator capable of using them. 
-
+- company: SANOMA 
+  position: Senior developer
+  duration: 2012 - 2014
