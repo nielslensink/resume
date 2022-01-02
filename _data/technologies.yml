@@ -1,8 +1,29 @@
 lists:
   main:
-    - Python
+    - Python 
+    - Docker 
+    - Django
+    - FastAPI
+    - pandas / numpy
+    - GIT 
+    - Kafka 
+    - Redis
+    - Memcached
+    - MQTT 
+    - Grafana
   second:
-    - Kafka
+    - Kubernetes / Openshift 
+    - PostgreSQL / TimescaleDB 
+    - Google Cloud
+    - Amazon Web Services
+    - Azure Cloud
+    - NGINX
+    - HAProxy
+    - Ansible
+    - Terraform
+    - Elastic
   third:
-    - Jupyter
-
+    - Jupyter 
+    - Tensorflow / Keras 
+    - HTML CSS Javascript 
+    - Vue.js
