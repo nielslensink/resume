@@ -71,8 +71,8 @@
         <div class="resume-item">
           {% for technologies in site.data.technologies.lists %}
           <ul class="resume-item-list">
-            {% for technology in technologies %}
-            <li>{{ technology[1] }}</li>
+            {% for technology in technologies[1] %}
+            <li>{{ technology }}</li>
             {% endfor %}
           </ul>
           {% endfor %}
