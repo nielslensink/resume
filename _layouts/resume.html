@@ -69,10 +69,10 @@
         </header>
 
         <div class="resume-item">
-          {% for name, technologies in site.data.technologies.lists %}
+          {% for technologies in site.data.technologies.lists %}
           <ul class="resume-item-list">
             {% for technology in technologies %}
-            <li>{{ technology }}</li>
+            <li>{{ technology[1] }}</li>
             {% endfor %}
           </ul>
           {% endfor %}
