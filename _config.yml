@@ -10,6 +10,7 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
+resume_logo:                    "true"
 resume_name:                    "Niels Lensink"
 resume_title:                   "Software Engineer"
 
