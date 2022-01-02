@@ -29,6 +29,13 @@
     display: block;
   }
 
+  .logo {
+    max-width: 200px;
+    overflow: hidden;
+    margin: 0 auto;
+    display: block;
+  }
+
   .header-name {
     @include sans;
     font-size: 3rem;
