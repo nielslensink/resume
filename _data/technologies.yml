@@ -13,9 +13,8 @@ lists:
     - Grafana
   second:
     - Kubernetes / Openshift 
+    - Helm / Kustomize
     - PostgreSQL / TimescaleDB 
-    - Google Cloud
-    - Amazon Web Services
     - Azure Cloud
     - NGINX
     - HAProxy
