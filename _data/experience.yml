@@ -1,35 +1,23 @@
 - company: Gemeente Amsterdam (I-Domein)
   position: Senior Cloud Engineer / Senior DevOps Engineer
   duration: 2021 - 2025
-  summary: |
-    As Senior Cloud Engineer, I led the design of a secure, scalable Azure environment using Bicep and Azure DevOps, enabling AKS-based deployments for development teams. I built reusable infrastructure templates and supported the migration of numerous applications with a strong focus on automation and security.
 
 - company: Gemeente Amsterdam (OIS)
   position: Senior Software Engineer / Senior Devops engineer
   duration: 2019 - 2021
-  summary: |
-    In a multidisciplinary team, I delivered APIs, dashboards, and full-stack applications for various municipal departments. I introduced Docker-based standardization and TimescaleDB to improve development workflows and high-throughput data processing.
 
 - company: We Riot BV
   position: Co Founder &amp; Lead Developer
   duration: 2017 - 2021
-  summary: |
-    As co-founder and lead developer, I built Catasta, a cloud-native data platform with real-time ingestion, analytics, and ML integration. I handled full-stack development, from Kafka pipelines and Kubernetes deployments to a Vue.js interface and ML model serving.
 
 - company: KPN
   position: Tech Lead
   duration: 2013 - 2017
-  summary: |
-    At KPN, I helped architect and lead the development of the Digital Engine — a modern API platform replacing legacy systems. I introduced Kubernetes, CI/CD automation, and Kafka-based ML pipelines, while enabling cross-team innovation and observability at scale.
 
 - company: SANOMA
   position: Senior developer
   duration: 2012 - 2014
-  summary: |
-    Part of the core team that rebuilt NU.nl from PHP to Django, I developed scalable APIs and editorial tools that powered millions of daily visitors. The modular backend was reused across multiple Sanoma titles for fast, flexible content delivery.
 
 - company: Elements Interactive
   position: Tech Lead
   duration: 2007 - 2021
-  summary: |
-    Over a decade, I evolved from junior PHP developer to tech lead, delivering 20+ projects across backend, frontend, and CMS for clients like McDonald’s and KLM. I introduced DevOps practices, CI/CD pipelines, and internal tools to support scalable delivery.
