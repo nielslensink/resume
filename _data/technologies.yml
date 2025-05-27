@@ -1,28 +1,41 @@
 lists:
-  main:
-    - Python 
-    - Docker 
+  Languages & Frameworks:
+    - Python
     - Django
     - FastAPI
-    - pandas / numpy
-    - GIT 
-    - Kafka 
+    - JavaScript
+    - HTML
+    - CSS
+    - Vue.js
+  Data & ML:
+    - Pandas
+    - NumPy
+    - Jupyter
+    - TensorFlow
+    - Keras
+  Databases & Messaging:
+    - PostgreSQL
+    - TimescaleDB
     - Redis
     - Memcached
-    - MQTT 
-  second:
-    - Kubernetes / Openshift 
-    - Helm / Kustomize
-    - PostgreSQL / TimescaleDB 
-    - Azure Cloud
-    - NGINX
-    - HAProxy
+    - Kafka
+    - MQTT
+  DevOps & Infrastructure:
+    - Docker
+    - Kubernetes
+    - OpenShift
+    - Helm
+    - Kustomize
     - Ansible
     - Terraform
+  Cloud & Networking:
+    - Azure Cloud
+    - GKE
+    - NGINX
+    - HAProxy
     - Elastic
     - Grafana
-  third:
-    - Jupyter 
-    - Tensorflow / Keras 
-    - HTML CSS Javascript 
-    - Vue.js
+  Version Control & CI/CD:
+    - Git
+    - GitLab CI/CD
+    - Jenkins

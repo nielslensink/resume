@@ -61,11 +61,10 @@
 
         <div class="resume-item">
           {% for technologies in site.data.technologies.lists %}
-          <ul class="resume-item-list">
-            {% for technology in technologies[1] %}
-            <li>{{ technology }}</li>
-            {% endfor %}
-          </ul>
+          <h3 class="resume-item-title">{{ technologies[0] }}</h3>
+          <p class="resume-item-list">
+            {{ technologies[1] | join: ', ' }}
+          </p>
           {% endfor %}
         </div>
 
