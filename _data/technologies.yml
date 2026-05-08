@@ -30,7 +30,6 @@ lists:
     - Terraform
   Cloud & Networking:
     - Azure Cloud
-    - GKE
     - NGINX
     - HAProxy
     - Elastic
